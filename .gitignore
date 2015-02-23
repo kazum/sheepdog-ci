@@ -1,0 +1,20 @@
+*.egg-info
+*.py[co]
+*.conf
+*~
+.DS_Store
+.idea
+.venv
+.tox
+.coverage
+build
+dist
+cover
+
+#
+# for GLOBAL
+#
+GTAGS
+GRTAGS
+GPATH
+GSYMS
